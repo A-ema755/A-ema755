@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emanuel Guevara
-- 👀 I’m interested in Software development, web development, game development, DevOps
+- 👀 I’m interested in web development, game development and DevOps
 - 🌱 I’m currently learning AWS and Web Development
 
 <!---
